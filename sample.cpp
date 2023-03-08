@@ -6,7 +6,7 @@ using namespace std;
 int main ()
 {
 
-printf("hello po");
+printf("hello master");
 /////////////////////
 
 }
