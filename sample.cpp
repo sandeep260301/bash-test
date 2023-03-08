@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string>
 
-using namespace std;
+using std;
 
 int main ()
 {
