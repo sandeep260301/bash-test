@@ -5,5 +5,8 @@ using namespace std;
 
 int main ()
 {
-    int 
+    int int 
+    adas datas
+
+    asdasdas
 }
